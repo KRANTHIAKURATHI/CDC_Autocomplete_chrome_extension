@@ -1,4 +1,4 @@
-# 🎥 Course Video Autoplay For vit student to complete cdc videos
+# 🎥 Course Video Autoplay For vit students to complete cdc videos
 
 
 An intelligent Chrome extension designed to enhance your online learning experience by automatically navigating and playing the next video in a course sequence. No more clicking "Next" every 5 minutes—just sit back, learn, and let the extension handle the navigation.
